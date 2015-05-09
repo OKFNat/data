@@ -1,0 +1,52 @@
+{
+  "title": "Asylentscheidungen 2002-2013",
+  "name": "asylentscheidungen_2002-2013",
+  "description": "Dieser Datensatz beschreibt, wie Asylverfahren in Österreich in den Jahren 2002-2013 ausgegangen sind. ",
+  "licenses": [
+    {
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0",
+      "id": "CC-BY-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Asylentscheidungen_2002-2013.csv",
+      "path": "Asylentscheidungen_2002-2013.csv",
+      "mediatype": "text/csv",
+      "bytes": 7804,
+      "schema": {
+        "fields": [
+          {
+            "name": "Jahr",
+            "type": "integer"
+          },
+          {
+            "name": "Art der Entscheidung",
+            "type": "string"
+          },
+          {
+            "name": "Rechtskräftig positiv",
+            "type": "number"
+          },
+          {
+            "name": "Rechtskräftig negativ",
+            "type": "number"
+          },
+          {
+            "name": "sonstige",
+            "type": "number"
+          },
+          {
+            "name": "Summe",
+            "type": "integer"
+          },
+          {
+            "name": "Anmerkung",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
