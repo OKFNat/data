@@ -22,4 +22,4 @@ Das Datenpaket mit seinen aufgewerteten Daten ist von seinen Instandhaltern unte
 Das Innenminsterium [schreibt auf seiner Impressumsseite](http://www.bmi.gv.at/cms/bmi_impressum/):
 > Die Übernahme von Beiträgen ist – unter Quellenangabe – gestattet (außer für kommerzielle Zwecke).
 
-Wir interpretieren das als Lizenz, die einer [CC BY-NC 3.0 AT-Lizenz](https://creativecommons.org/licenses/by-nc/3.0/at/) ähnelt, und empfehlen bei Weiterverwendung der Daten dringend eine Nennung des BMI.  
+Wir interpretieren das als Lizenz, die einer [CC BY-NC 3.0 AT-Lizenz ähnelt](https://creativecommons.org/licenses/by-nc/3.0/at/), und empfehlen bei Weiterverwendung der Daten dringend eine Nennung des BMI.  
