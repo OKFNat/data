@@ -1,4 +1,6 @@
-*Diese Datei ist eine Vorlage für Readme-Dateien. Es soll damit leichter werden, zukünftig Readme-Dateien für Daten zu erstellen. Bitte mache dir eine Kopie, lösche überflüssige Inhalte weg und entwickle gerne auch diese Vorlage weiter.*
+*Diese Datei ist eine Vorlage für Readme-Dateien. Es soll damit leichter werden, zukünftig Readme-Dateien für Daten zu erstellen. Bitte mach dir eine Kopie dieser Datei, lösche überflüssige Inhalte weg und entwickle sie auch gerne weiter.*
+
+
 
 Kurze Beschreibung des Inhalts des Datensets in einem Satz. 
 
@@ -15,7 +17,7 @@ Weitere Details zum Datensatz, zu den Säuberungsschritten sowie Erstvisualisier
 
 
 
-Dieses Datenpaket ist lizensiert bei seinen  
+Dieses Datenpaket ist lizensiert bei seinen XXX
 
 Dort ist das unter folgenden Nutzungsbedingungen veröffentlicht. 
 Die Daten kommen indirekt von XXXLink angebenXXX. Es könnten Rechte, 
