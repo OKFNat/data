@@ -17,8 +17,9 @@ Dieser Datensatz beschreibt die Entscheidungen der staatlichen Stellen über den
 Weitere Details zum Datensatz, zu den Säuberungsschritten sowie Erstvisualisierungen finden sich in einem [begleitenden Blogpost.](http://okfn.at/2015/04/21/asyl/)
 
 ## Lizenz
+Das Datenpaket mit seinen aufgewerteten Daten ist von seinen Instandhaltern unter der [Public Domain Dedication and License (PDDL)](http://opendatacommons.org/licenses/pddl/1.0/) lizensiert.
 
 Das Innenminsterium [schreibt auf seiner Impressumsseite](http://www.bmi.gv.at/cms/bmi_impressum/):
 > Die Übernahme von Beiträgen ist – unter Quellenangabe – gestattet (außer für kommerzielle Zwecke).
 
-Wir interpretieren das als Lizenz, die einer [CC BY-NC 3.0 AT-Lizenz](https://creativecommons.org/licenses/by-nc/3.0/at/) ähnelt, und empfehlen bei Weiterverarbeitung der Daten dringend eine Nennung des BMI.  
+Wir interpretieren das als Lizenz, die einer [CC BY-NC 3.0 AT-Lizenz](https://creativecommons.org/licenses/by-nc/3.0/at/) ähnelt, und empfehlen bei Weiterverwendung der Daten dringend eine Nennung des BMI.  
