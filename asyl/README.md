@@ -4,7 +4,7 @@ Asylanträge und -entscheidungen in Österreich seit 2002.
 
 Die Daten entstammen der [Asylstatistik der österreichischen Innenministeriums (BMI)](http://www.bmi.gv.at/cms/BMI_Asylwesen/statistik/start.aspx), die monatlich bzw. jährlich veröffentlicht wird. Die Daten wurden aus den PDFs extrahiert, zusammengezogen und gesäubert. Etwa wurden Namen vereinheitlicht und aggregierte Zwischensummen gelöscht. 
 
-Das Datenpaket beinhaltet zwei Datensätze:
+Das Datenpaket beinhaltet zwei Datensätzen:
 
 	asylantraege_200201-201502.csv
 
