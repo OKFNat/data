@@ -2,7 +2,7 @@
 
 
 
-Kurze Beschreibung des Inhalts des Datensets in einem Satz. 
+Kurze Beschreibung des Inhalts des Datenpakets in einem Satz. 
 
 ## Daten
 
