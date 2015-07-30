@@ -1,11 +1,11 @@
 Das österreichische Parteienverzeichnis enthält die Namen der politischen Parteien, die beim Bundesministerium für Inneres (BMI) registriert sind. 
 
 ## Daten
-Der Datensatz basiert auf dem vom österreichischen Bundesministerium für Inneres veröffentlichten [Parteienverzeichnis] (http://www.bmi.gv.at/cms/BMI_Service/parteienverz/files/Parteienverzeichnis_gem_1_Abs_4_PartG_Stand_2015_07_15.pdf), Stand 25. Juli 2015. 
+Der Datensatz basiert auf dem vom österreichischen Bundesministerium für Inneres veröffentlichten [Parteienverzeichnis] (http://www.bmi.gv.at/cms/BMI_Service/parteienverz/files/Parteienverzeichnis_gem_1_Abs_4_PartG_Stand_2015_07_15.pdf), Stand 15. Juli 2015. 
 
 Das Parteienverzeichnis wird regelmäßig vom BMI aktualisiert, die jeweils aktuellste Version ist unter http://www.bmi.gv.at/cms/BMI_Service/parteienverz/ verfügbar.
 
-Mit Stand 25. Juli 2015 enthielt das Parteienregister 1023 politische Parteien, die ihre Statuten beim Bundesministerium für Inneres hinterlegt haben.   
+Mit Stand 15. Juli 2015 enthielt das Parteienregister 1023 politische Parteien, die ihre Statuten beim Bundesministerium für Inneres hinterlegt haben.   
 
 Der Datensatz beinhaltet die folgenden Informationen: 
 
