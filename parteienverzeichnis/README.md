@@ -13,7 +13,7 @@ Der Datensatz beinhaltet die folgenden Informationen:
 
 „Name der politischen Partei“: Beinhaltet den Name der Politischen Partei, in „“ gesetzt, laut der zuletzt beim BMI hinterlegten Satzung. 
 
-„Datum der Hinterlegung“: Das Datum, an dem die Partei erstmals ihre Satzung beim BMI hinterlegt hat. 
+„Datum der Hinterlegung“: Das Datum (TT.MM.JJJJ), an dem die Partei erstmals ihre Satzung beim BMI hinterlegt hat.
 
 ### Hintergrund 
 Das BMI veröffentlicht die Daten auf Basis von §1 des [Parteiengesetzes 2012] (https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007889) (PartG):
