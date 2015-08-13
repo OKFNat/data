@@ -32,5 +32,5 @@ Bei den Förder-Informationen handelt sich allem Anschein nach um Bekanntmachung
 
 > § 7. (1) Urheberrechtsgesetz: „Gesetze, Verordnungen, amtliche Erlässe, Bekanntmachungen und Entscheidungen sowie ausschließlich oder vorwiegend zum amtlichen Gebrauch hergestellte amtliche Werke der im § 2 Z 1 oder 3 bezeichneten Art genießen keinen urheberrechtlichen Schutz.“
 
-Wir interpretieren das als Lizenz, die einer CC BY-NC 3.0 AT-Lizenz ähnelt, und empfehlen bei Weiterverwendung der Daten eine Nennung der RTR sowie ein Überprüfen der Daten in Bezug auf Vollständigkeit und Aktualität mit den auf der RTR-Webseite veröffentlichten Informationen. 
+Wir empfehlen bei Weiterverwendung der Daten eine Nennung der RTR sowie ein Überprüfen der Daten in Bezug auf Vollständigkeit und Aktualität mit den auf der RTR-Webseite veröffentlichten Informationen. 
 
