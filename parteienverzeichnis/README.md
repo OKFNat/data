@@ -1,19 +1,25 @@
 Das österreichische Parteienverzeichnis enthält die Namen der politischen Parteien, die beim Bundesministerium für Inneres (BMI) registriert sind. 
 
 ## Daten
-Der Datensatz basiert auf dem vom österreichischen Bundesministerium für Inneres veröffentlichten [Parteienverzeichnis] (http://www.bmi.gv.at/cms/BMI_Service/parteienverz/files/Parteienverzeichnis_gem_1_Abs_4_PartG_Stand_2015_07_15.pdf), Stand 15. Juli 2015. 
+Der Datensatz basiert auf dem vom österreichischen Bundesministerium für Inneres veröffentlichten [Parteienverzeichnis] (http://www.bmi.gv.at/cms/BMI_Service/parteienverz/files/Parteienverzeichnis_gem__1_Abs_4_PartG_Stand_2015_09_16.pdf), Stand 16. September 2015. 
 
 Das Parteienverzeichnis wird regelmäßig vom BMI aktualisiert, die jeweils aktuellste Version ist unter http://www.bmi.gv.at/cms/BMI_Service/parteienverz/ verfügbar.
 
-Mit Stand 15. Juli 2015 enthielt das Parteienregister 1023 politische Parteien, die ihre Statuten beim Bundesministerium für Inneres hinterlegt haben.   
+Mit Stand 16. September 2015 enthielt das Parteienregister 1.027 politische Parteien, die ihre Statuten beim Bundesministerium für Inneres hinterlegt haben.   
 
 Der Datensatz beinhaltet die folgenden Informationen: 
 
-„Nr.“: Eine allem Anschein nach durch das BMI zugeordnete Nummer, die Parteien alphabetisch reiht. Diese Nummer ist keine einer Partei permanent zugeordnete Erkennungsnummer. 
+„ID.“: Eine allem Anschein nach durch das BMI zugeordnete Nummer, die Parteien alphabetisch reiht. Diese Nummer ist keine einer Partei permanent zugeordnete Erkennungsnummer. 
 
-„Name der politischen Partei“: Beinhaltet den Name der Politischen Partei, in „“ gesetzt, laut der zuletzt beim BMI hinterlegten Satzung. 
+„Name der politischen Partei“: Beinhaltet den Name der Politischen Partei, laut der zuletzt beim BMI hinterlegten Satzung (ohne Anführungszeichen). 
+
+„weitere Bezeichnung“: Enthält etwaige Kurznamen, Abkürzungen und Aliase aufzulisten, die im Parteienverzeichnis vermerkt sind.
 
 „Datum der Hinterlegung“: Das Datum (TT.MM.JJJJ), an dem die Partei erstmals ihre Satzung beim BMI hinterlegt hat.
+
+„Jahr": Das aus dem Datum abgeleitete Jahr, in dem die Partei ihre Satzung beim BMI hinterlegt hat.
+
+“Originaleintrag“: Der gesamte, ungereinigte Eintrag aus dem Parteienverzeichnis.
 
 ### Hintergrund 
 Das BMI veröffentlicht die Daten auf Basis von §1 des [Parteiengesetzes 2012] (https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007889) (PartG):
