@@ -4,7 +4,7 @@ Asylanträge und -entscheidungen in Österreich seit 2002.
 
 Die Daten entstammen der [Asylstatistik der österreichischen Innenministeriums (BMI)](http://www.bmi.gv.at/cms/BMI_Asylwesen/statistik/start.aspx), die monatlich bzw. jährlich veröffentlicht wird. Die Daten wurden aus den PDFs extrahiert, zusammengezogen und gesäubert. Etwa wurden Namen vereinheitlicht und aggregierte Zwischensummen gelöscht. 
 
-Das Datenpaket beinhaltet zwei Datensätze:
+Das Datenpaket beinhaltet mehrere Datensätze:
 
 	asylantraege.csv
 
@@ -15,6 +15,10 @@ Dieser Datensatz beschreibt die in Österreich gestellten Asylanträge, aufgesch
 Dieser Datensatz beschreibt die Entscheidungen der staatlichen Stellen über den Asylantrag, aufgeschlüsselt nach Jahr (2002-2013), Art der Entscheidung sowie Ausgang des Antrags. „Sonstige” beinhaltet Einstellung, Zurückweisung, Zurückziehung oder Gegenstandslosigkeit des Asylantrags. Die Zahlen wurden aus den jährlichen Asylberichten des BMI aggregiert. Bis 2003 wurden Verfahren nach Asylgesetz 1997 durchgeführt, 2004 und 2005 nach AsylG 1997 und 2003, ab 2006 nur nach AsylG 2003.
 
 Weitere Details zum Datensatz, zu den Säuberungsschritten sowie Erstvisualisierungen finden sich in einem [begleitenden Blogpost.](http://okfn.at/2015/04/21/asyl/)
+
+	asylantraege_minderjaehrige_0-14.csv
+
+Dieser Datensatz beschreibt die in Österreich gestellten Asylanträge, von minderjährigen Kindern im Alter von 0 bis 14 Jahren, aufgeschlüsselt nach Herkunftsländern (Zeilen) und Monaten (Spalten) für das Jahr 2015, im Zeitraum Jänner bis August. 
 
 ## Lizenz
 Das Datenpaket mit seinen aufgewerteten Daten ist von seinen Instandhaltern unter der [Public Domain Dedication and License (PDDL)](http://opendatacommons.org/licenses/pddl/1.0/) lizensiert.
