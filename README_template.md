@@ -7,7 +7,7 @@ Daten zum Asylwesen in Österreich 2002 - 2013.
 
 ## Daten
 
-*Detaillierte Beschreibung des Datenpakets: 
+Detaillierte Beschreibung des Datenpakets: 
 * Woher stammen die Daten? Quelle inklusive Link.
 * Wie wurden sie aufbereitet? 
 * Wie ist die Datenqualität? Welche Schwachstellen hat das Datenpaket? Fehlen wichtige Daten?
