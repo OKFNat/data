@@ -2,7 +2,7 @@ Angezeigte Fälle in Österreich nach Bundesland pro Jahr, seit 2005
 
 ## Daten
 
-Die Daten entstammen dem Bericht [Aktuelle Kriminalitätsentwicklung 2014 und Herausforderungen 2015], Seite 12 (http://www.bmi.gv.at/cms/BK/publikationen/krim_statistik/2014/KrimBericht_2014_web.pdf).
+Die Daten entstammen dem Bericht [Aktuelle Kriminalitätsentwicklung 2014 und Herausforderungen 2015](http://www.bmi.gv.at/cms/BK/publikationen/krim_statistik/2014/KrimBericht_2014_web.pdf), Seite 12.
 Der Datensatz enthält die jährliche Gesamtsumme der bei der Polizei gemachten Anzeigen, heruntergebrochen auf Bundesländer, für die Jahre 2005 bis 2014. 
 
 ## Lizenz
