@@ -10,7 +10,7 @@ Kurze Beschreibung des Inhalts des Datenpakets in einem Satz. Zum Beispiel:
 Detaillierte Beschreibung des Datenpakets: 
 * Woher stammen die Daten? Quelle inklusive Link.
 * Wie wurden sie aufbereitet? 
-* Wie ist die Datenqualität? Welche Schwachstellen hat das Datenpaket? Fehlen wichtige Daten? Wie
+* Wie ist die Datenqualität? Welche Schwachstellen hat das Datenpaket? Fehlen wichtige Daten?
 * Welche Datensätze beinhaltet das Datenpaket? Am besten jeden Dateinamen mittels Markdown-Code-Block-Kürzel (4 Leerzeichen bzw. 1 Tab) kurz anführen, anschließend kurz beschreiben.
 * Was bedeuten die Zeilen- bzw. Spaltenabkürzungen? Die Struktur erklären. 
 
