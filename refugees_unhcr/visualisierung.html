@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Flüchtlingsströme aller Länder im Jahr 2014</title>
+    <style media="screen">
+
+      html,
+      body {
+        width: 100%;
+      }
+
+      * {
+        font-family: Helvetica, Arial, sans-serif;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      h1,
+      p {
+        margin: 12px;
+      }
+
+      #chart {
+        height: 500px;
+        font-size: 12px;
+      }
+
+      .node rect {
+        cursor: move;
+        fill-opacity: .9;
+        shape-rendering: crispEdges;
+      }
+
+      .node text {
+        pointer-events: none;
+        text-shadow: 0 1px 0 #fff;
+      }
+
+      .link {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: .2;
+      }
+
+      .link:hover {
+        stroke-opacity: .5;
+      }
+
+      .link.click {
+        stroke: blue;
+        stroke-opacity: .5;
+      }
+
+    </style>
+  </head>
+  <body>
+    <h1>Flüchtlingsströme aller Länder im Jahr 2014</h1>
+    <p>
+      Visualisierung aller Flüchtlingsströme (Asylanträge) für das Jahr 2014. Originaldaten von <a href="http://popstats.unhcr.org/en/asylum_seekers
+">UNHCR</a>.
+    </p>
+    <p>
+      Links sind die Ursprungsländer, von welchen Flüchtlinge stammen. Rechts sind Ankunftsländer, in denen um Asyl angesucht wird.
+    </p>
+    <div id="chart"></div>
+    <script src="http://d3js.org/d3.v2.min.js?2.9.1"></script>
+    <script src="https://cdn.rawgit.com/d3/d3-plugins/master/sankey/sankey.js"></script>
+    <script src="visualisierung.js" charset="utf-8"></script>
+  </body>
+</html>
