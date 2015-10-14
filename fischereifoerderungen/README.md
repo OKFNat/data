@@ -42,7 +42,7 @@ Anschließend wurden Geo-Koordinaten hinzugefügt, die die Gemeinden verorten, i
 
 Für die übrigen Gemeinden wurden händisch die Geodaten ermittelt. Dazu haben wir http://www.mapcoordinates.net benutzt, dass bei Eingabe einer Adresse die entsprechenden Geodaten ausgibt.
 
-Aus CartoDB haben wir die Daten samt Geo-Koordinaten als GeoJason Datei exportiert, in (http://geojson.io/) geladen und von dort als CSV exportiert.
+Aus CartoDB haben wir die Daten samt Geo-Koordinaten als GeoJason Datei exportiert, in http://geojson.io/ geladen und von dort als CSV exportiert.
 
 Eine Erstvisualisierung der Daten mittels CartoDB findet sich hier: http://cdb.io/1G5r0Xk.
 
