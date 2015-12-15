@@ -8,7 +8,7 @@ Das Datenpaket beinhaltet mehrere Datensätze:
 
 	asylantraege.csv
 
-Dieser Datensatz beschreibt die in Österreich gestellten Asylanträge, aufgeschlüsselt nach Jahr und Land (Zeilen) sowie Monat (Spalten) für den Zeitraum Jänner 2002 bis einschließlich August 2015. 
+Dieser Datensatz beschreibt die in Österreich gestellten Asylanträge, aufgeschlüsselt nach Jahr und Land (Zeilen) sowie Monat (Spalten) für den Zeitraum Jänner 2002 bis einschließlich Oktober 2015. 
 
 	asylentscheidungen_2002-2013.csv
 
