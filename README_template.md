@@ -19,7 +19,7 @@ Weitere Details zum Datensatz, zu den Säuberungsschritten sowie Erstvisualisier
 ## Verbesserungen, Spenden 
 
 * Du hast dir den Datensatz im Detail angesehen und er ist nicht mehr aktuell oder hat einen anderen Fehler? Dann öffne ein Issue auf GitHub oder – noch besser - schick uns ein Pull Request mit der verbesserten Version. 
-* Dir gefällt der Datensatz? Dann werde Datenpate! Mit einer [Spende an den Verein von Open Knowledge Östereich])http://okfn.at/verein/) kannst du sicherstellen, dass dieser Datensatz auch in Zukunft gepflegt wird. 
+* Dir gefällt der Datensatz? Dann werde Datenpate! Mit einer [Spende an den Verein von Open Knowledge Östereich](http://okfn.at/verein/) kannst du sicherstellen, dass dieser Datensatz auch in Zukunft gepflegt wird. 
 
 ## Lizenz
 
