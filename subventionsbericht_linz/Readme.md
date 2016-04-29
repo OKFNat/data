@@ -1,5 +1,7 @@
 Der Datensatz ```Subventionsbericht_Linz.csv``` enthält Förderungen und Transferzahlungen der oberösterreichischen Hauptstadt Linz für das Jahr 2014.
 
+Die Datei ```Suvnetionsbericht_Linz_Foerderarten.csv``` enthält eine Übersicht mit aggregierten Beträgen nach Art der Förderunge für die Jahre 2012 bis 2014.
+
 ##Daten
 Der Originalbericht ist als PDF-Datei auf der Webseite der [Stadt Linz] (http://www.linz.at) verfügbar: http://www.linz.at/presse/2015/201506_79309.asp. Die Förderungen werden seit 2013 jährlich offengelegt. 
 
