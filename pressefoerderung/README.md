@@ -4,7 +4,9 @@ Dieser Datensatz enthält ausbezahlte Förderungen nach dem [Presseförderungsge
 
 Die Förderungen werden von der Rundfunk- und Telekom Regulierungs GmbH (RTR) vergeben, die auf ihrer Webseite jährlich die Ergebnisse der Förderungen veröffentlicht. Die Informationen sind über https://www.rtr.at/de/ppf/PFErgebnisse auffindbar. 
 
-Die Informationen werden als PDF-Dateien – meist vier Dateien pro Jahr, insgesamt erstrecken sich die Förderinformationen über knapp 50 Dateien – und zum Teil auch im HTML-Format veröffentlicht. Die Daten wurden manuell durch Copy&Paste der Informationen in einen Datensatz (mittels Preview, Mac) aggregiert und danach mit Excel (u.a. mittels Suchen=> Ersetzen) und Open Refine gesäubert und standardisiert. 
+Der Datensatz wurde im Rahmen des [Gute Taten für Gute Daten] (http://okfn.at/gutedaten/) Projekts der [Open Knowledge Austria (OKFN)] (http://okfn.at/) aufbereitet. 
+
+Die Förder-Informationen werden als PDF-Dateien – meist vier Dateien pro Jahr, insgesamt erstrecken sich die Förderinformationen über knapp 50 Dateien – und zum Teil auch im HTML-Format veröffentlicht. Die Daten wurden manuell durch Copy&Paste der Informationen in einen Datensatz (mittels Preview, Mac) aggregiert und danach mit Excel (u.a. mittels Suchen=> Ersetzen) und Open Refine gesäubert und standardisiert. 
 
 Die Daten sind für die Jahre 2004 (der Einführung des betreffenden Gesetzes) bis 2015 verfügbar (Stand: 30. April 2016). 
 
