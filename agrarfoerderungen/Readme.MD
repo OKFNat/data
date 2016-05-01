@@ -3,7 +3,11 @@ Der Datensatz enthält im Jahr 2014 in Österreich ausbezahlte EU-Agrarförderun
 ## Daten
 Aufgrund seiner Größe können wir den Datensatz nicht auf GitHub stellen. Der Datensatz steht hier als [.xlsx] (https://drive.google.com/file/d/0BwlhWjE4aDyXM3hkeVN2M0I5Y1E/view?usp=sharing) (ca 28 MB) und hier als [.csv] (https://drive.google.com/open?id=0BwlhWjE4aDyXUzAtSFBlSXBnVzg) (ca 49 MB) zum Download zur Verfügung. 
 
+Der Datensatz wurde im Rahmen des [Gute Taten für Gute Daten] (http://okfn.at/gutedaten/) Projekts der [Open Knowledge Austria (OKFN)] (http://okfn.at/) aufbereitet. 
+
 Die Original-Daten werden von der Agrarmarkt Austria (AMA) auf [Transparenzdatenbank.at] (http://transparenzdatenbank.at/) veröffentlicht. Dort ist mit Stand April 2016 nur der Datensatz für 2014 ausbezahlte Gelder verfübar. 
+
+Extrahiert wurden die Daten mit dem [AgroScraper] (https://github.com/OKFNat/agroScraper).
 
 Details zu EU-Agrarförderungen aus führeren Jahren sowie zu Fördernungen an andere EU-Mitgliedsstaaten hat das Farm Subsidies Projekt gesammelt: http://farmsubsidy.openspending.org.
 
