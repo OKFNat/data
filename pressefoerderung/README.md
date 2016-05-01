@@ -1,4 +1,4 @@
-Dieses Datensatz enthält die Empfänger der österreichischen Presseförderung der Jahre 2004 bis 2015 (Angaben für 2015 sind vorläufig).
+Dieses Datensatz enthält die Empfänger der österreichischen Presseförderung der Jahre 2004 bis 2015.
 # Daten
 Dieser Datensatz enthält ausbezahlte Förderungen nach dem [Presseförderungsgestz 2004] (https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003079) (PresseFG 2004) sowie Einreichungen, die nicht gefördert wurden. 
 
@@ -6,7 +6,7 @@ Die Förderungen werden von der Rundfunk- und Telekom Regulierungs GmbH (RTR) ve
 
 Die Informationen werden als PDF-Dateien – meist vier Dateien pro Jahr, insgesamt erstrecken sich die Förderinformationen über knapp 50 Dateien – und zum Teil auch im HTML-Format veröffentlicht. Die Daten wurden manuell durch Copy&Paste der Informationen in einen Datensatz (mittels Preview, Mac) aggregiert und danach mit Excel (u.a. mittels Suchen=> Ersetzen) und Open Refine gesäubert und standardisiert. 
 
-Die Daten sind für die Jahre 2004 (der Einführung des betreffenden Gesetzes) bis 2015 verfügbar, wobei die Daten für 2015 vorläufig sind und noch nicht alle Förderungen beinhalten (Stand: 12. August 2015). 
+Die Daten sind für die Jahre 2004 (der Einführung des betreffenden Gesetzes) bis 2015 verfügbar (Stand: 30. April 2016). 
 
 **Der Datensatz enthält die folgenden Informationen:**  
 
@@ -33,4 +33,3 @@ Bei den Förder-Informationen handelt sich allem Anschein nach um Bekanntmachung
 > § 7. (1) Urheberrechtsgesetz: „Gesetze, Verordnungen, amtliche Erlässe, Bekanntmachungen und Entscheidungen sowie ausschließlich oder vorwiegend zum amtlichen Gebrauch hergestellte amtliche Werke der im § 2 Z 1 oder 3 bezeichneten Art genießen keinen urheberrechtlichen Schutz.“
 
 Wir empfehlen bei Weiterverwendung der Daten eine Nennung der RTR sowie ein Überprüfen der Daten in Bezug auf Vollständigkeit und Aktualität mit den auf der RTR-Webseite veröffentlichten Informationen. 
-
