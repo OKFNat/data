@@ -12,6 +12,8 @@ Jedes Dokument ist aufgeteilt in unterschiedliche Kapitel: Rechtsextremismus, Li
 Die Verbreitung von Waffen („Proliferation”) sowie (islamistischer) Terrorismus sind ebenso regelmäßig Themen in den Berichten. Da nur für Rechts- und Linksextremismus auch tatsächlich Daten in den Berichten veröffentlicht werden, können auch nur ebendiese hier wiedergegeben werden. 
 
 ### Aufbereitung
+Der Datensatz wurde im Rahmen eines Hackdays, veranstaltet vom [Gute Taten für Gute Daten] (http://okfn.at/gutedaten/) Projekt der [Open Knowledge Austria (OKFN)] (http://okfn.at/), aufbereitet. 
+
 Die Tabellen aus den PDFs wurden mithilfe des Dienstes [Smallpdf](http://smallpdf.com/) extrahiert und anschließend in ein Google Spreadsheet importiert, dort von Hand gesäubert und zur erleichterten Vergleichbarkeit in weiteren Tabellen kombiniert. 
 
 ### Datenqualität
