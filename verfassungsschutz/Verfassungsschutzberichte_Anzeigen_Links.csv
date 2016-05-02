@@ -1,0 +1,39 @@
+Anzeigen,StGB 1,StGB 2,"2014
+rep 15","2013
+rep 15","2013
+rep 14","2012
+rep 14"
+Anzeigen nach dem StGB,,,,,,
+Körperverletzung (§ 83 StGB),83,84,15,16,36,22
+Schwere Körperverletzung (§ 84 StGB),84,,31,20,-,-
+Körperverletzung mit schweren Dauerfolgen (§ 85 StGB),85,,1,0,-,-
+Absichtliche schwere Körperverletzung (§ 87 StGB),87,,1,0,-,-
+Raufhandel (§ 91 StGB),91,,7,0,-,-
+Nötigung (§ 105 StGB),105,106,3,5,5,2
+Schwere Nötigung (§ 106 StGB),106,,1,0,-,-
+Gefährliche Nötigung (§ 107 StGB),107,,2,0,-,-
+Widerrechtlicher Zugriff auf ein Computersystem (§ 118a StGB),118a,,1,0,-,-
+Sachbeschädigung (§ 125 StGB),125,126,239,99,120,99
+Schwere Sachbeschädigung (§ 126 StGB),126,,50,21,-,-
+Diebstahl (§ 127 StGB),127,,11,1,1,7
+Dauernde Sachentziehung (§ 135 StGB),135,,-,-,1,1
+Raub (§ 142 StGB),142,,5,0,1,1
+Untreue (§ 153 StGB),153,,3,0,-,-
+Störung der Totenruhe (§ 190 StGB),190,,-,-,1,0
+Urkundenunterdrückung (§ 229 StGB),229,,1,0,-,-
+Widerstand gegen die Staatsgewalt (§ 269 StGB),269,,73,18,18,10
+Tätlicher Angriff auf einen Beamten (§ 270 StGB),270,,6,11,11,3
+Landfriedensbruch (§ 274 StGB),274,,20,31,-,-
+Kriminelle Vereinigung (§ 278 StGB),278,,1,35,-,-
+Verhetzung (§ 283 StGB),283,,11,2,-,-
+Sprengung einer Versammlung (§ 284 StGB),284,,-,-,31,0
+Verhinderung oder Störung einer Versammlung (§ 285 StGB),285,,29,0,35,0
+Verleumdung (§ 297 StGB),297,,-,-,2,0
+Andere StGB-Delikte,,,0,3,0,13
+Anzeigen nach anderen Gesetzen / Verordnungen,,,,,,
+Versammlungsgesetz,,,10,36,36,23
+Sicherheitspolizeigesetz,,,13,112,112,12
+Steiermärkisches Landes-Sicherheitsgesetz,,,5,0,-,-
+Pyrotechnikgesetz,,,-,-,1,0
+Sonstige,,,6,1,0,5
+Summe,,,545,411,411,198
