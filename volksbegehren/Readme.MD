@@ -1,5 +1,7 @@
 Der Datensatz ```volksbegehren_detailergebnisse.csv```erhält Detailergebnisse zu seit den 1990ern in Österreich durchgeführten Volksbegehren.
 
+Der Datensatz ```volksbegehren_der_zweiten_republik.csv``` enthält einen überblick über alle Volksbegehren der zweiten Republik samt derer Gesamtresultate.
+
 ## Daten
 Der Datensatz enthält Ergebnisse für seit 1996 durchgeführte Volksbegehren auf Bezirksebene. Die Daten wurden vom Bundesministerium für Inneres in unterschiedlichen Formaten online veröffentlicht: http://www.bmi.gv.at/cms/BMI_wahlen/volksbegehren/vb_xx_periode/start.aspx
 
