@@ -1,7 +1,7 @@
-This dataset ```eu-armsexports.csv``` contains data on arms exports permits issued by EU members tates from years 2005 to 2013.
+This dataset ```eu-armsexports.csv``` contains data on arms exports permits issued by EU member states from 2005 to 2013.
 
 ## Dataset
-The data was extracted from the Official Journal of the European Union using the [amrs scraper] (https://github.com/OKFNat/armsScraper) – please see the page of that scraper for additional documentation.
+The data was extracted from the Official Journal of the European Union using the [amrs scraper] (https://github.com/OKFNat/armsScraper).Please see the page of that scraper for additional documentation.
 
 The dataset was scraped as part of the [Good Deeds for Good Data] (http://okfn.at/gutedaten/) project by [Open Knowledge Austria] (http://okfn.at).
 
