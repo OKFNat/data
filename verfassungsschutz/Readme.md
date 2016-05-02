@@ -1,9 +1,9 @@
 ## Daten
-Diese Daten beschreiben jene Anzeigen, die das Bundesamt für Verfassungsschutz und Terrorismusbekämpfung dem rechts- udn linksextremistischen Milieu zurechnet. 
+Diese Daten beschreiben jene Anzeigen, die das Bundesamt für Verfassungsschutz und Terrorismusbekämpfung dem rechts- und linksextremistischen Milieu zurechnet. 
 
 Stand: 28. November 2015. 
 
-Die Grunddaten wurden dem [Verfassungsschutzberichten der Jahre XXXX-XXX](http://www.bmi.gv.at/cms/bmi_verfassungsschutz/) entnommen, gesäubert und mit weiteren Daten angereichert. Die Verfassungsschutzberichte werden jährlich auf der Website des Innenministeriums als PDF veröffentlicht und behandeln jeweils die Verfassungsbedrohungen aus einem Jahr. Jedes Dokument ist aufgeteilt in unterschiedliche Kapitel: Rechtsextremismus, Linksextremismus und ausländische Spionageabwehr werden in jedem Bericht seit 1997 behandelt. Auch militante Tierrechtsgruppen kommen mit Ausnahme von 2014 jedes mal in den Berichten vor. Die Verbreitung von Waffen („Proliferation”) sowie (islamistischer) Terrorismus sind ebenso ein beinahe ständiges Themen in den Berichten. Da nur für Rechts- und Linksextremismus auch tatsächlich Daten in den Berichten veröffentlicht werden, können auch nur ebendiese hier wiedergegeben werden. 
+Die Grunddaten wurden dem [Verfassungsschutzberichten der Jahre XXXX-XXX](http://www.bmi.gv.at/cms/bmi_verfassungsschutz/) entnommen, gesäubert und mit weiteren Daten angereichert. Die Verfassungsschutzberichte werden jährlich auf der Website des Innenministeriums als PDF veröffentlicht und behandeln jeweils die Verfassungsbedrohungen aus einem Jahr. Jedes Dokument ist aufgeteilt in unterschiedliche Kapitel: Rechtsextremismus, Linksextremismus und ausländische Spionageabwehr werden in jedem Bericht seit 1997 behandelt. Auch militante Tierrechtsgruppen kommen mit Ausnahme von 2014 jedes mal in den Berichten vor. Die Verbreitung von Waffen („Proliferation”) sowie (islamistischer) Terrorismus sind ebenso regelmäßig Themen in den Berichten. Da nur für Rechts- und Linksextremismus auch tatsächlich Daten in den Berichten veröffentlicht werden, können auch nur ebendiese hier wiedergegeben werden. 
 
 ### Kategorien
 
